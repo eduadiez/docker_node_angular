@@ -8,3 +8,7 @@ Run:
 ```
 sudo docker run -d --rm --name angular -v client:/usr/src/app/client -p 22:22 -p 80:80 eduadiez/node_angular
 ```
+
+References:
+
+https://github.com/dciccale/docker-angular-tutum
